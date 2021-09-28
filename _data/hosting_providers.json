@@ -2548,5 +2548,15 @@
     "plan": "",
     "reviewed": "2020.2.19",
     "note": "All plans come with Free Let's Encrypt automatically installed for Website and Mail"
+  },
+  {
+    "name": "Hostico",
+    "link": "https://hostico.ro/",
+    "category": "full",
+    "tutorial": "",
+    "announcement": "",
+    "plan": "",
+    "reviewed": "2021.9.28",
+    "note": "All webhosting plans include Let's Encrypt. The website is in Romanian."
   }
 ]
